@@ -1,2 +1,2 @@
 this is a test to make sure i know how to push and pull with git
-git isn't so bad
+git isn't so bad. but i hope i can keep up.
